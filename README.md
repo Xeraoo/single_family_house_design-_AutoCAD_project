@@ -7,6 +7,7 @@ This repository contains a detailed architectural design of a single-family hous
 ## 📋 Project Overview
 The design illustrates a **vertical cross-section** of a three-story house, showcasing various structural components, dimensions, and materials. The project adheres to civil engineering standards and includes detailed construction elements and annotations, with all measurements provided in **centimeters**.
 
+![image](https://github.com/user-attachments/assets/ccf7bef3-564c-42e6-a159-934d9928c8fc)
 ![image](https://github.com/user-attachments/assets/5f3a1a95-4129-4fd2-b29b-f20a2ac0c675)
 
 ### Key Features:
